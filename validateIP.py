@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 23 10:39:18 2018
 
-@author: yinti
 """
+@author: yinti
+email:yintianze49@gmail.com
+"""
+
 import requests
 def validateIP(IP,port):
     url="http://ip.chinaz.com/getip.aspx"
