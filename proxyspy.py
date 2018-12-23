@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Dec 23 01:35:32 2018
-
-@author: yinti
-"""
 
 import re
 import ssl 
