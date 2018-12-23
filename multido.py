@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec 22 15:19:49 2018
-
 @author: yinti
+email:yintianze49@gmail.com
 """
 
 import re
