@@ -1,5 +1,10 @@
 # -*- coding: utf-8 -*-
 
+"""
+@author: yinti
+email:yintianze49@gmail.com
+"""
+
 import re
 import ssl 
 import urllib.request
